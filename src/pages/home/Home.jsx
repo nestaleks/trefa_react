@@ -10,10 +10,10 @@ function Home () {
                     <div className="grid">
                         <div className="grid-wrapper">
                             <a className="tall">
-                                <img className="grid-wrapper-img" src="./images/gallery/trefa-cats_images-01.jpg" alt=""/>
+                                <img className="grid-wrapper-img" src="./../images/gallery/trefa-cats_images-01.jpg" alt=""/>
                             </a>
                             <a>
-                                <img className="grid-wrapper-img" src="./images/gallery/trefa-cats_images-02.jpg" alt=""/>
+                                <img className="grid-wrapper-img" src="./../images/gallery/trefa-cats_images-02.jpg" alt=""/>
                             </a>
                             <a className="tall">
                                 <img className="grid-wrapper-img" src="./images/gallery/trefa-cats_images-03.jpg" alt=""/>
