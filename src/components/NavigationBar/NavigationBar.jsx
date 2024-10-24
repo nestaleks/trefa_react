@@ -21,26 +21,26 @@ function NavigationBar() {
             <span className="btn-line"></span>
         </button>
             <>
-        <a className="menu__item">
+        <div className="menu__item">
             <NavLink to="/" className="menu__link">
                 Home
             </NavLink>
-        </a>
-        <a className="menu__item">
+        </div>
+        <div className="menu__item">
             <NavLink to="/about" className="menu__link">
                 About
             </NavLink>
-        </a>
-        {/* <a className="menu__item">
+        </div>
+        {/* <div className="menu__item">
             <NavLink to="/contacts" className="menu__link">
                 Contact
             </NavLink>
         </a> */}
-        <a className="menu__item">
+        <div className="menu__item">
             <NavLink to="/support" className="menu__link">
                 Support Us
             </NavLink>
-        </a>
+        </div>
         <div className="header__social">
             <a className="header__social-youtube" href="https://www.youtube.com/@trefa9099" target="_blank" rel="noreferrer">
                 <img className="social-icon" src={youtubeIcon} alt=""/>
@@ -63,26 +63,26 @@ function NavigationBar() {
         </button>
         {isOpen && (
             <>
-        <a className="menu__item">
+        <div className="menu__item">
             <NavLink to="/" onClick={toggleMenu} className="menu__link">
                 Home
             </NavLink>
-        </a>
-        <a className="menu__item">
+        </div>
+        <div className="menu__item">
             <NavLink to="/about" onClick={toggleMenu} className="menu__link">
                 About
             </NavLink>
-        </a>
-        {/* <a className="menu__item">
+        </div>
+        {/* <div className="menu__item">
             <NavLink to="/contacts" onClick={toggleMenu} className="menu__link">
                 Contact
             </NavLink>
-        </a> */}
-        <a className="menu__item">
+        </div> */}
+        <div className="menu__item">
             <NavLink to="/support" onClick={toggleMenu} className="menu__link">
                 Support Us
             </NavLink>
-        </a>
+        </div>
         <div className="header__social">
             <a className="header__social-youtube" href="https://www.youtube.com/@trefa9099" target="_blank" rel="noreferrer">
                 <img className="social-icon" src={youtubeIcon} alt=""/>
