@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trefa_react/static/css/main.262293bc.css",
-    "main.js": "/trefa_react/static/js/main.66628351.js",
+    "main.js": "/trefa_react/static/js/main.c632db94.js",
     "static/media/trefa-cats_images-74.jpg": "/trefa_react/static/media/trefa-cats_images-74.c014dcc2a52b8dfe9b98.jpg",
     "static/media/about-img-6.jpg": "/trefa_react/static/media/about-img-6.f5fbb32971d0f6bdc822.jpg",
     "static/media/about-img-4.jpg": "/trefa_react/static/media/about-img-4.cdc56edc27971b7218f7.jpg",
@@ -151,10 +151,10 @@
     "index.html": "/trefa_react/index.html",
     "static/media/facebook.svg": "/trefa_react/static/media/facebook.f9c98a75b12a73bf80eeda05c036985f.svg",
     "main.262293bc.css.map": "/trefa_react/static/css/main.262293bc.css.map",
-    "main.66628351.js.map": "/trefa_react/static/js/main.66628351.js.map"
+    "main.c632db94.js.map": "/trefa_react/static/js/main.c632db94.js.map"
   },
   "entrypoints": [
     "static/css/main.262293bc.css",
-    "static/js/main.66628351.js"
+    "static/js/main.c632db94.js"
   ]
 }
