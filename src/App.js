@@ -22,7 +22,7 @@ function App() {
         <ScrollToTop />
         <Header/>
         <Routes>
-          <Route exact path='/' component={Home} />
+          <Route path='/' element={Home} />
           <Route path="/about" element={<About/>} />
           <Route path="/support" element={<Support/>} />
           <Route path="/contacts" element={<Contacts/>} />
