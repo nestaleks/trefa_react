@@ -190,436 +190,328 @@ function Gallery() {
                         <img className="grid-wrapper-img" src={galleryImg018} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-19.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg019} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-20.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg020} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-21.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg021} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-22.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg022} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-23.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg023} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-24.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg024} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-25.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg025} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-26.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg026} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-27.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg027} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-28.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg028} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-29.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg029} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-30.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg030} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-31.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg031} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-32.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg032} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-33.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg033} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-34.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg034} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-35.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg035} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-36.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg036} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-37.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg037} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-38.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg038} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-39.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg039} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-40.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg040} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-41.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg041} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-42.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg042} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-43.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg043} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-44.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg044} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-45.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg045} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-46.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg046} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-47.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg047} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-48.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg048} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-49.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg049} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-50.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg050} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-51.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg051} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-52.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg052} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-53.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg053} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-54.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg054} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-55.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg055} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-56.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg056} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-57.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg057} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-58.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg058} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-59.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg059} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-60.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg060} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-61.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg061} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-62.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg062} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-63.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg063} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-64.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg064} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-65.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg065} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-66.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg066} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-67.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg067} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-68.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg068} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-69.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg069} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-70.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg070} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-71.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg071} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-72.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg072} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-73.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg073} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-74.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg074} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-75.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg075} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-76.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg076} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-77.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg077} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-78.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg078} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-79.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg079} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-80.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg080} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-81.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg081} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-82.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg082} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-83.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg083} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-84.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg084} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-85.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg085} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-86.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg086} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-87.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg087} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-88.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg088} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-89.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg089} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-90.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg090} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-91.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg091} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-92.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg092} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-93.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg093} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-94.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg094} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-95.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg095} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-96.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg096} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-97.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg097} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-98.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg098} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-99.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg099} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-100.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg100} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-101.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg101} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-102.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg102} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-103.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg103} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-104.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg104} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-105.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg105} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-106.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg106} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-107.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg107} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-108.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg108} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-109.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg109} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-110.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg110} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-111.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg111} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-112.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg112} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-113.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg113} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-114.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg114} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-115.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg115} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-116.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg116} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-117.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg117} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-118.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg118} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-119.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg119} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-120.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg120} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-121.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg121} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-122.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg122} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-123.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg123} alt=""/>
                     </div>
                     <div className="tall">
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-124.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg124} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-125.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg125} alt=""/>
                     </div>
                     <div>
-                        <img className="grid-wrapper-img" src="./img/trefa-cats_images-126.jpg"
-                             alt=""/>
+                        <img className="grid-wrapper-img" src={galleryImg126} alt=""/>
                     </div>
                 </div>
             </div>
